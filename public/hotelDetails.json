@@ -1,0 +1,330 @@
+[
+  
+    {
+      
+        "id": 1,
+        "name": "cox's Bazar",
+        "description": "Experience a tranquil stay at one of Cox's Bazar's finest hotels.",
+        "img":"/assets/icons/coxs.jpg",
+        "hotels": [
+        {
+          "_id": 1,
+          "name": "Seagull Hotel",
+          "description": "Seagull Hotel is a luxurious beachfront hotel offering stunning views ",
+          "amenities": ["WiFi", "Swimming pool", "Restaurant"],
+          "booking_details": {
+            "price_per_night": "$150",
+            "total_price": "$750"
+          },
+          "reviews": {
+            "rating": 4.6,
+            "num_reviews": 80
+          }
+        },
+        {
+          "_id": 2,
+          "name": "Long Beach Hotel",
+          "description": "Long Beach Hotel is an elegant beach resort known for its contemporary design .",
+          "amenities": ["WiFi", "Spa", "Fitness center"],
+          "booking_details": {
+            "price_per_night": "$180",
+            "total_price": "$900"
+          },
+          "reviews": {
+            "rating": 4.8,
+            "num_reviews": 100
+          }
+        },
+        {
+          "_id": 3,
+          "name": "Hotel Sea Breeze",
+          "description": "Hotel Sea Breeze offers a cozy retreat with modern amenities and a peaceful ambiance. .",
+          "amenities": ["WiFi", "Air conditioning", "Restaurant"],
+          "booking_details": {
+            "price_per_night": "$120",
+            "total_price": "$600"
+          },
+          "reviews": {
+            "rating": 4.5,
+            "num_reviews": 60
+          }
+        },
+        {
+          "_id": 4,
+          "name": "Ocean Paradise Hotel & Resort",
+          "description": "Ocean Paradise Hotel & Resort is a beachfront paradise offering luxurious accommodations.",
+          "amenities": ["WiFi", "Spa", "Private beach"],
+          "booking_details": {
+            "price_per_night": "$200",
+            "total_price": "$1000"
+          },
+          "reviews": {
+            "rating": 4.9,
+            "num_reviews": 120
+          }
+        }
+      ]
+    },
+    {
+      
+        "id": 2,
+        "name": "Saint Martin",
+        "description": "Experience a tranquil stay at one of Saint Martin's finest hotels. ",
+        "img":"/assets/icons/saint martin.jpg",
+
+      "hotels": [
+        {
+          "_id": 1,
+          "name": "Saint Martin Resort",
+          "description": "Saint Martin Resort offers beachfront accommodations with stunning views .",
+          "amenities": ["WiFi", "Restaurant", "Water sports"],
+          "booking_details": {
+            "price_per_night": "$120",
+            "total_price": "$600"
+          },
+          "reviews": {
+            "rating": 4.5,
+            "num_reviews": 70
+          }
+        },
+        {
+          "_id": 2,
+          "name": "Beach Haven Cottage",
+          "description": "Beach Haven Cottage provides cozy cottages steps away from the pristine beach. ",
+          "amenities": ["WiFi", "Beach access", "Garden"],
+          "booking_details": {
+            "price_per_night": "$90",
+            "total_price": "$450"
+          },
+          "reviews": {
+            "rating": 4.2,
+            "num_reviews": 50
+          }
+        },
+        {
+          "_id": 3,
+          "name": "Coral Reef Resort",
+          "description": "Coral Reef Resort offers a secluded retreat amidst lush greenery and coral reefs.",
+          "amenities": ["WiFi", "Snorkeling", "Beachfront restaurant"],
+          "booking_details": {
+            "price_per_night": "$150",
+            "total_price": "$750"
+          },
+          "reviews": {
+            "rating": 4.8,
+            "num_reviews": 90
+          }
+        },
+        {
+          "_id": 4,
+          "name": "Paradise Island Resort",
+          "description": "Paradise Island Resort offers luxury accommodations with panoramic ocean views. ",
+          "amenities": ["WiFi", "Spa", "Fine dining"],
+          "booking_details": {
+            "price_per_night": "$200",
+            "total_price": "$1000"
+          },
+          "reviews": {
+            "rating": 4.9,
+            "num_reviews": 120
+          }
+        }
+      ]
+    },
+    {
+     
+        "id": 3,
+        "name": "Srimangal",
+        "description": "Explore the serene beauty of Srimangal with its lush tea gardens and ",
+        "img":"/assets/icons/Sreemongol.png",
+        "hotels": [
+        {
+          "_id": 1,
+          "name": "Srimangal Tea Garden Resort",
+          "description": "Srimangal Tea Garden Resort offers a peaceful stay amidst the verdant tea gardens. Guests can experience the charm of the region while enjoying comfortable accommodations and warm hospitality.",
+          "amenities": ["WiFi", "Tea garden views", "Restaurant"],
+          "booking_details": {
+            "price_per_night": "$80",
+            "total_price": "$400"
+          },
+          "reviews": {
+            "rating": 4.6,
+            "num_reviews": 80
+          }
+        },
+        {
+          "_id": 2,
+          "name": "Green Leaf Cottage",
+          "description": "Green Leaf Cottage provides cozy cottages surrounded by lush greenery. Guests can relax in nature's embrace, savor local cuisine, and unwind in comfortable accommodations.",
+          "amenities": ["WiFi", "Garden views", "Local cuisine"],
+          "booking_details": {
+            "price_per_night": "$70",
+            "total_price": "$350"
+          },
+          "reviews": {
+            "rating": 4.3,
+            "num_reviews": 60
+          }
+        },
+        {
+          "_id": 3,
+          "name": "Rainforest Retreat",
+          "description": "Rainforest Retreat offers a secluded escape into the heart of the rainforest. Guests can immerse themselves in nature, enjoy birdwatching, and rejuvenate in serene surroundings.",
+          "amenities": ["WiFi", "Nature trails", "Birdwatching"],
+          "booking_details": {
+            "price_per_night": "$100",
+            "total_price": "$500"
+          },
+          "reviews": {
+            "rating": 4.7,
+            "num_reviews": 95
+          }
+        },
+        {
+          "_id": 4,
+          "name": "Misty Hills Resort",
+          "description": "Misty Hills Resort provides panoramic views of the surrounding hills and valleys. Guests can enjoy the cool mountain air, trek through picturesque trails, and relax in comfortable accommodations.",
+          "amenities": ["WiFi", "Mountain views", "Trekking trails"],
+          "booking_details": {
+            "price_per_night": "$120",
+            "total_price": "$600"
+          },
+          "reviews": {
+            "rating": 4.9,
+            "num_reviews": 110
+          }
+        }
+      ]
+    },
+    {
+      
+        "id": 4,
+        "name": "Sundarbans",
+        "description": "Discover the wonders of the Sundarbans, home to the world's largest mangrove forest.",
+        "img":"/assets/icons/sundorbon.png",
+      "hotels": [
+        {
+          "_id": 1,
+          "name": "Mangrove Eco-Resort",
+          "description": "Mangrove Eco-Resort offers eco-friendly accommodations nestled within the heart of the Sundarbans. ",
+          "amenities": ["WiFi", "Eco-friendly", "Guided tours"],
+          "booking_details": {
+            "price_per_night": "$100",
+            "total_price": "$500"
+          },
+          "reviews": {
+            "rating": 4.5,
+            "num_reviews": 75
+          }
+        },
+        {
+          "_id": 2,
+          "name": "Delta View Lodge",
+          "description": "Delta View Lodge provides stunning views of the delta landscape..",
+          "amenities": ["WiFi", "River views", "Boat tours"],
+          "booking_details": {
+            "price_per_night": "$90",
+            "total_price": "$450"
+          },
+          "reviews": {
+            "rating": 4.2,
+            "num_reviews": 55
+          }
+        },
+        {
+          "_id": 3,
+          "name": "Wilderness Retreat",
+          "description": "Wilderness Retreat offers a secluded getaway amidst nature's tranquility. .",
+          "amenities": ["WiFi", "Nature walks", "Wildlife spotting"],
+          "booking_details": {
+            "price_per_night": "$120",
+            "total_price": "$600"
+          },
+          "reviews": {
+            "rating": 4.8,
+            "num_reviews": 85
+          }
+        },
+        {
+          "_id": 4,
+          "name": "Sundarbans Safari Lodge",
+          "description": "Sundarbans Safari Lodge offers an adventurous stay in the heart of the jungle. .",
+          "amenities": ["WiFi", "Jungle safaris", "Adventure activities"],
+          "booking_details": {
+            "price_per_night": "$110",
+            "total_price": "$550"
+          },
+          "reviews": {
+            "rating": 4.7,
+            "num_reviews": 100
+          }
+        }
+      ]
+    },
+    {
+      
+        "id": 5,
+        "name": "Sajek Valley",
+        "description": "Explore the picturesque beauty of Sajek Valley, nestled amidst the lush hills of Bangladesh.",
+        "img":"/assets/icons/Sajek.png",
+      "hotels": [
+        {
+          "_id": 1,
+          "name": "Valley View Resort",
+          "description": "Valley View Resort offers stunning panoramic views of the valley. ",
+          "amenities": ["WiFi", "Valley views", "Local cuisine"],
+          "booking_details": {
+            "price_per_night": "$80",
+            "total_price": "$400"
+          },
+          "reviews": {
+            "rating": 4.6,
+            "num_reviews": 70
+          }
+        },
+        {
+          "_id": 2,
+          "name": "Hilltop Haven",
+          "description": "Hilltop Haven provides a tranquil retreat atop the hills of Sajek.",
+          "amenities": ["WiFi", "Hilltop views", "Trekking trails"],
+          "booking_details": {
+            "price_per_night": "$70",
+            "total_price": "$350"
+          },
+          "reviews": {
+            "rating": 4.3,
+            "num_reviews": 55
+          }
+        },
+        {
+          "_id": 3,
+          "name": "Cloud Nine Cottage",
+          "description": "Cloud Nine Cottage offers a blissful stay amidst the clouds. ",
+          "amenities": ["WiFi", "Mountain views", "Waterfalls nearby"],
+          "booking_details": {
+            "price_per_night": "$90",
+            "total_price": "$450"
+          },
+          "reviews": {
+            "rating": 4.7,
+            "num_reviews": 80
+          }
+        },
+        {
+          "_id": 4,
+          "name": "Sajek Serenity Resort",
+          "description": "Sajek Serenity Resort offers a serene escape in the heart of nature.",
+          "amenities": ["WiFi", "Nature walks", "Local delicacies"],
+          "booking_details": {
+            "price_per_night": "$100",
+            "total_price": "$500"
+          },
+          "reviews": {
+            "rating": 4.8,
+            "num_reviews": 90
+          }
+        }
+      ]
+    }
+  ]
+  
